@@ -9,7 +9,7 @@ An offline guide and tracker for all 55 PlayStation 5 trophies of **Grand Theft 
 ## What it does
 
 - **Every trophy, with its official name, description and grade** — the list as reported by Push Square via Exophase and matched by GTABase, PowerPyx, GamesRadar+ and PC Gamer.
-- **A guide for each trophy, in our own words, with sources** — what to do, where and how, and when it can be missed. Each guide names the sources its facts come from (GTABase, GTA Zone, HowToVideoGame, KeenGamer and more).
+- **A guide for each trophy, in our own words, with sources** — what to do, where and how, and when it can be missed. Each guide names the sources its facts come from, and every trophy is now backed by three or more independent sources (GTABase, PowerPyx, Push Square, GTA Zone, HowToVideoGame, KeenGamer, GameMapa and more) — the counts, locations and conditions in a guide come from the sources named there, and the words are ours.
 - **Roadmap to the platinum** — five stages in order: story, strangers, activities, collectibles, then money and 100% completion. PowerPyx rates the platinum at difficulty 4/10 and about 200 hours.
 - **The one missable trophy, flagged** — Positive Mental Attitude (meditate at all 18 spots) is the only trophy reported as possibly missable: Lucia's Chapter 1 balcony meditation is gone after Chapter 1, so the guide tells you to do it first.
 - **Tracker** — tick trophies off, progress saves in your browser (localStorage), export it to a file and import it back. Filter by kind (story, missable, collectibles, activities, online) and by grade, search by name, and turn on the spoiler setting to hide story trophies until you earn them.

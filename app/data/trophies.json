@@ -16,7 +16,10 @@
   {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
   {"name": "GTA Vice City Hub", "url": "https://www.gtavicecityhub.com/achievements"},
   {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
-  {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+  {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
+  {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+  {"name": "Push Square", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+  {"name": "GameMapa", "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"}
  ],
  "trophies": [
   {
@@ -31,7 +34,8 @@
    "steps": ["Earn the other 54 trophies in any order.", "The Platinum unlocks automatically once the last one pops."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -46,7 +50,8 @@
    "steps": ["Start the story and play the opening mission Gone Fishing to the end."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -61,7 +66,8 @@
    "steps": ["Play through all of Chapter 1's story missions.", "Before finishing the chapter, do Lucia's balcony meditation at Jason's house."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+    {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -76,7 +82,8 @@
    "steps": ["Play through all of Chapter 2's story missions."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -91,7 +98,8 @@
    "steps": ["Play through all of Chapter 3's story missions."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -106,7 +114,8 @@
    "steps": ["Play through all of Chapter 4's story missions.", "Make a manual save before the final mission."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"}
+    {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -121,7 +130,8 @@
    "steps": ["Complete the final story mission.", "After the credits, open Progress to find the 100% Completion checklist."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -136,7 +146,8 @@
    "steps": ["Play the story until the Breakfast Run mission, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -151,7 +162,8 @@
    "steps": ["Play the story until The Cartel Heist, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -166,7 +178,8 @@
    "steps": ["Play the story until the Child's Play mission, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -181,7 +194,8 @@
    "steps": ["Play the story until the Headliners mission, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -196,7 +210,8 @@
    "steps": ["Play the story until the VCIA Takedown mission, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -211,7 +226,8 @@
    "steps": ["Play the story until the Operation Savage Glory mission, then complete it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -222,12 +238,13 @@
    "kind": "activities",
    "missable": false,
    "roadmap_stage": 5,
-   "guide": "This is the hardest trophy in the list and the second Gold. The 100% checklist has 35 tasks and appears under Progress > Stats > 100% Completion after the story; anything you did before the story ended already counts, and nothing on it is missable. It asks for the full set of robberies (including 8 bank vaults and all 39 gang operations), underwater discoveries, every shooting-range gold medal, all drone races, Bret's 15 Target Decks, 15 of the 18 meditation spots, 70 of 80 challenges, 300 stunts and 100 WAiNK scans. PowerPyx notes it is roughly 60% of true completion, so it does not demand literally everything — but it is the long grind that most of the other trophies feed into.",
+   "guide": "This is the hardest trophy in the list and the second Gold. The 100% checklist has 35 tasks and appears under Progress > Stats > 100% Completion after the story; anything you did before the story ended already counts, and nothing on it is missable. It asks for the full set of robberies (including 8 bank vaults and all 39 gang operations), underwater discoveries, every shooting-range gold medal, all drone races, Bret's 15 Target Decks, 15 of the 18 meditation spots, 70 of 80 challenges, 300 stunts and 100 WAiNK scans. PowerPyx notes it is roughly 60% of true completion, so it does not demand literally everything — but it is the long grind that most of the other trophies feed into. KeenGamer counts 22 bank jobs and seven payday loan jobs among the robberies the checklist wants, and 33 underwater discoveries and 100 Cocaine Flamingos among the collectibles.",
    "steps": ["Finish the story, then open Progress > Stats > 100% Completion to see the 35-task checklist.", "Clear the checklist item by item; most of it overlaps with other trophies.", "The last items are usually the 70 challenges and the 300 stunts — leave those for the final push."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "GTA Vice City Hub", "url": "https://www.gtavicecityhub.com/achievements"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -238,11 +255,13 @@
    "kind": "activities",
    "missable": false,
    "roadmap_stage": 3,
-   "guide": "Land 250 stunts across Leonida — jumps, airtime, near-misses and the unique stunt jumps marked on the map all count toward the total. The trophy needs 250, but the 100% checklist wants 300, so keep going past the pop: every stunt after the trophy still counts toward A Long Road. Fast bikes and the countryside ramps make the count climb quickly.",
+   "guide": "Land 250 stunts across Leonida — jumps, airtime, near-misses and the unique stunt jumps marked on the map all count toward the total. The trophy needs 250, but the 100% checklist wants 300, so keep going past the pop: every stunt after the trophy still counts toward A Long Road. Fast bikes and the countryside ramps make the count climb quickly. GameMapa counts 397 stunts in total across Leonida, so there is plenty of room to reach 250.",
    "steps": ["Hit stunt jumps and land jumps with airtime anywhere in Leonida.", "Keep going to 300 stunts — the extra 50 count toward 100% completion."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"}
+    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+    {"name": "GameMapa", "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"}
    ]
   },
   {
@@ -258,7 +277,8 @@
    "sources": [
     {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
     {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -273,7 +293,9 @@
    "steps": ["Visit each of the 12 shooting ranges and clear every challenge to gold.", "42 gold medals in total; repeat any challenge until gold."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+    {"name": "Push Square", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"}
    ]
   },
   {
@@ -288,7 +310,9 @@
    "steps": ["Find a Top Fun drone race location and win its race.", "Repeat at all 14 locations; clear all 42 races for the 100% checklist."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+    {"name": "Push Square", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"}
    ]
   },
   {
@@ -303,7 +327,8 @@
    "steps": ["Enter races of different types and win 20 distinct ones.", "Mix street, dirt, motorsport and drone races to cover the count fast."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"}
+    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   }
 ,
@@ -319,7 +344,8 @@
    "steps": ["Meet Cal and start his fishing challenge.", "Land more (or bigger) fish than Cal to win."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -334,7 +360,8 @@
    "steps": ["Find an arcade cabinet and start a game.", "Play it through to completion."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -349,7 +376,8 @@
    "steps": ["Find Andy's strand on the map and start it.", "Complete every mission in his strand, through the final one."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -364,7 +392,8 @@
    "steps": ["Find Kenton's strand on the map and start it.", "Complete every mission in his strand, through the final one."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -379,7 +408,8 @@
    "steps": ["Find Billy's strand on the map and start it.", "Complete every mission in his strand, through the final one."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -395,7 +425,8 @@
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -410,7 +441,8 @@
    "steps": ["Find Randy's strand on the map and start it.", "Complete every mission in his strand, through the final one."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -425,7 +457,8 @@
    "steps": ["Find Tyrone's strand on the map and start it.", "Complete every mission in his strand, through the final one."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -442,7 +475,8 @@
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "HowToVideoGame — meditation spots", "url": "https://howtovideogame.com/gta-6-meditation-spots/"},
     {"name": "Beebom — meditation spots", "url": "https://beebom.com/gta-6-meditation-spots-locations/"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -457,7 +491,8 @@
    "steps": ["Meet Bret and take his hunting job.", "Track the unique animal and hunt it down for him."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -473,7 +508,8 @@
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -505,7 +541,8 @@
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
-    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"}
+    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -520,7 +557,8 @@
    "steps": ["Bring your partner along, then raise your wanted level to four stars.", "Break line of sight and escape until the wanted level clears."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -535,7 +573,8 @@
    "steps": ["Bring your partner and pick three shops close together.", "Rob the first shop to gain a wanted level, then rob the next two without losing it."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -546,11 +585,13 @@
    "kind": "collectibles",
    "missable": false,
    "roadmap_stage": 4,
-   "guide": "Discover 100 different vehicle types — getting into a new type of car, bike, boat or aircraft adds it to your collection. Variety is what counts, not repeats, so drive everything you see: traffic in Vice City alone covers most of the common types, and the rarer ones turn up at the airport, the docks and in the countryside. Your collection progress is tracked in the game's collections menu.",
+   "guide": "Discover 100 different vehicle types — getting into a new type of car, bike, boat or aircraft adds it to your collection. Variety is what counts, not repeats, so drive everything you see: traffic in Vice City alone covers most of the common types, and the rarer ones turn up at the airport, the docks and in the countryside. Your collection progress is tracked in the game's collections menu. Scanning an unfamiliar vehicle with the WAiNK app is enough to discover it, so scan as you drive.",
    "steps": ["Get into as many different vehicle types as you can.", "Hunt the rarer types at the airport, docks and countryside to reach 100."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"}
+    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+    {"name": "GameMapa", "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"}
    ]
   },
   {
@@ -564,7 +605,10 @@
    "guide": "Take down five enemies during one use of Combat Focus, the slow-motion aiming mode. The easiest place is a mission or shootout with a group of enemies clustered together: trigger Focus, work across the group with headshots, and keep firing until all five are down before Focus runs out. Shooting ranges raise your Focus level, so clear The Shootist first — a longer Focus window makes this much easier.",
    "steps": ["Raise your Focus level at the shooting ranges first.", "Find a group of five or more enemies, trigger Combat Focus, and drop five before it ends."],
    "sources": [
-    {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}
+    {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+    {"name": "Push Square", "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"},
+    {"name": "GameMapa", "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/"}
    ]
   },
   {
@@ -579,7 +623,8 @@
    "steps": ["Go to VCIA airport and find a plane near a runway.", "Steal it, take off and climb away from the airport."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   }
 ,
@@ -595,7 +640,8 @@
    "steps": ["Find a Rhino tank — military areas or a high wanted level will bring one out.", "Get in and survive the heat it draws."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -610,7 +656,8 @@
    "steps": ["Pick a jewelry store and watch its staff and customers.", "Rob it clean without triggering an alarm or being seen, then leave quietly."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -625,7 +672,8 @@
    "steps": ["Plan and rob a bank vault, then escape the police.", "Repeat for five vaults; clear all eight for the 100% checklist."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -640,7 +688,8 @@
    "steps": ["Find an armored truck on its route and stop it.", "Take the cash and escape the police."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -656,7 +705,8 @@
    "sources": [
     {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"}
+    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -672,7 +722,8 @@
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
     {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
-    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"}
+    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -687,7 +738,8 @@
    "steps": ["Go to a bar on Ocean Beach in Vice City.", "Order a cocktail and enjoy the view."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -702,7 +754,8 @@
    "steps": ["Drive into a vehicle showroom.", "Smash back out through the front glass in the car."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -717,7 +770,8 @@
    "steps": ["Go to the Kolt & Associates bowling alley.", "Play a game of bowling to the end."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -732,7 +786,8 @@
    "steps": ["Play through the game's social-media and partnership content as it unlocks.", "Check the cited lists for the confirmed trigger once guide sites pin it down."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"}
+    {"name": "KeenGamer", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -747,7 +802,8 @@
    "steps": ["Keep making story and side-content choices as they appear.", "The trophy pops once the tracked count of choices is reached."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"}
+    {"name": "GTA Zone", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -762,7 +818,8 @@
    "steps": ["If you fail a mission or activity, retry it right away.", "Passing on the second attempt is the likely trigger."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -777,7 +834,8 @@
    "steps": ["Explore Leonida's odd corners and strange encounters.", "Check the cited lists for the confirmed encounter once guide sites pin it down."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"}
+    {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -792,7 +850,8 @@
    "steps": ["Get in a car with a melee weapon equipped.", "Drive past a group of people and knock them down with melee attacks from the vehicle."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"}
+    {"name": "HowToVideoGame — trophy list", "url": "https://howtovideogame.com/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -807,7 +866,8 @@
    "steps": ["Do bank and payday loan jobs to earn marked bills.", "Sell the marked bills to your contacts until $250,000 is laundered in total."],
    "sources": [
     {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
-    {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"}
+    {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -822,7 +882,8 @@
    "steps": ["Buy gear, clothes, weapons and upgrades as you play.", "The total is cumulative — it pops once $100,000 has been spent across all shops."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"}
+    {"name": "U7BUY", "url": "https://www.u7buy.com/blog/gta-6-trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -838,7 +899,8 @@
    "sources": [
     {"name": "Output Lag", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
     {"name": "CryptoGames", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
-    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"}
+    {"name": "GTA6.how", "url": "https://gtasix.how/trophies/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   },
   {
@@ -853,7 +915,8 @@
    "steps": ["Open the Scooter Bros app when you find a vehicle.", "Register ten vehicles in total."],
    "sources": [
     {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"},
-    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"}
+    {"name": "eso.jffk.org", "url": "https://eso.jffk.org/gta-6-trophy-list-all-55-trophies-and-achievements/"},
+    {"name": "PowerPyx", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"}
    ]
   }
  ]
